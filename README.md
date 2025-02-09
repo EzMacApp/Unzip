@@ -34,6 +34,7 @@ Unzip 的页面内几乎没有文字，全部采用 icon 来做功能说明。�
 13. Share: <div align="left"><img src=images/square.and.arrow.up.png width=5%/></div>
 14. Privacy Link: <div align="left"><img src=images/info.circle.png width=6%/></div>
 
+
 ## 规划（随时会变）
 
 1. 合并解压缩的快捷键，根据文件后缀判断需要做什么操作 
